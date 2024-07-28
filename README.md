@@ -1,4 +1,4 @@
-# Verilog Vending Machine FSM
+# Vending Machine (using FSM)
 
 This project implements a Finite State Machine (FSM) based vending machine using Verilog. The vending machine simulates a simple coin-operated system that accepts ₹1 and ₹2 coins and dispenses an item when the total inserted amount reaches ₹5.
 
@@ -31,11 +31,3 @@ The testbench is configured to generate a VCD (Value Change Dump) file for wavef
 1. Compile the Verilog files using your preferred simulator (e.g., Icarus Verilog)
 2. Run the simulation to generate the VCD file
 3. Open the VCD file in GTKWave to visualize the waveforms
-
-## Learning Outcomes
-
-This project demonstrates:
-- FSM design and implementation in Verilog
-- Testbench creation for digital designs
-- Handling of multiple input conditions
-- State tracking and output generation based on cumulative inputs
