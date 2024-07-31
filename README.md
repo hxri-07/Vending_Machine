@@ -1,6 +1,6 @@
 # Vending Machine (using FSM)
 
-This project implements a Finite State Machine (FSM) based vending machine using Verilog. The vending machine simulates a simple coin-operated system that accepts ₹1 and ₹2 coins and dispenses an item when the total inserted amount reaches ₹5.
+This is still an on-going project. It implements a Finite State Machine (FSM) based vending machine using Verilog. The vending machine simulates a simple coin-operated system that accepts ₹1 and ₹2 coins and dispenses an item when the total inserted amount reaches ₹5.
 
 ## Features
 
